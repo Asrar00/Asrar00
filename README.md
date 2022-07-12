@@ -1,12 +1,14 @@
 ### Hi there 👋 I'm Asrar Alayafie from Saudi Arabia.
-###  I'm a Ph.D. student at the Institute for Financial and Actuarial Mathematics, the Department of Mathematical Science, Univerity of Liverpool, UK. 
-### I'm a Statistical lecturer at University of Jeddah, KSA. 
+ ## I'm a Ph.D. student at the Institute for Financial and Actuarial Mathematics, the Department of Mathematical Science, Univerity of Liverpool, UK. 
+- I'm a Statistical lecturer at University of Jeddah, KSA. 
+- I’m currently working on R language.
+- 🌱 I’m currently learning Non-life Insurance espacially Bonus-Malus System (BMS). 
 <!--
 **Asrar00/Asrar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- m I’m currently working on ...
+-  I’m currently working on R language.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
