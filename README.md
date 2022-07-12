@@ -1,5 +1,6 @@
-### Hi there 👋
-# I'm Asrar Alayafie from Saudi Arabia. I'm a Ph.D. student at the Department of Mathematical Science at Univerity of Liverpool, UK. Further, I'm a Statistical lecturer at University of Jeddah, KSA. 
+### Hi there 👋 I'm Asrar Alayafie from Saudi Arabia.
+###  I'm a Ph.D. student at the Institute for Financial and Actuarial Mathematics, the Department of Mathematical Science, Univerity of Liverpool, UK. 
+### I'm a Statistical lecturer at University of Jeddah, KSA. 
 <!--
 **Asrar00/Asrar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
